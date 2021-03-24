@@ -1,0 +1,16 @@
+D:\PROGRAMACION III\number_prime\number_prime\obj\Debug\net5.0\number_prime.csprojAssemblyReference.cache
+D:\PROGRAMACION III\number_prime\number_prime\obj\Debug\net5.0\number_prime.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION III\number_prime\number_prime\obj\Debug\net5.0\number_prime.AssemblyInfoInputs.cache
+D:\PROGRAMACION III\number_prime\number_prime\obj\Debug\net5.0\number_prime.AssemblyInfo.cs
+D:\PROGRAMACION III\number_prime\number_prime\obj\Debug\net5.0\number_prime.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION III\number_prime\number_prime\bin\Debug\net5.0\number_prime.exe
+D:\PROGRAMACION III\number_prime\number_prime\bin\Debug\net5.0\number_prime.deps.json
+D:\PROGRAMACION III\number_prime\number_prime\bin\Debug\net5.0\number_prime.runtimeconfig.json
+D:\PROGRAMACION III\number_prime\number_prime\bin\Debug\net5.0\number_prime.runtimeconfig.dev.json
+D:\PROGRAMACION III\number_prime\number_prime\bin\Debug\net5.0\number_prime.dll
+D:\PROGRAMACION III\number_prime\number_prime\bin\Debug\net5.0\ref\number_prime.dll
+D:\PROGRAMACION III\number_prime\number_prime\bin\Debug\net5.0\number_prime.pdb
+D:\PROGRAMACION III\number_prime\number_prime\obj\Debug\net5.0\number_prime.dll
+D:\PROGRAMACION III\number_prime\number_prime\obj\Debug\net5.0\ref\number_prime.dll
+D:\PROGRAMACION III\number_prime\number_prime\obj\Debug\net5.0\number_prime.pdb
+D:\PROGRAMACION III\number_prime\number_prime\obj\Debug\net5.0\number_prime.genruntimeconfig.cache

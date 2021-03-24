@@ -1,0 +1,16 @@
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\obj\Debug\net5.0\alculate_the_sum_of_numbers.csprojAssemblyReference.cache
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\obj\Debug\net5.0\alculate_the_sum_of_numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\obj\Debug\net5.0\alculate_the_sum_of_numbers.AssemblyInfoInputs.cache
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\obj\Debug\net5.0\alculate_the_sum_of_numbers.AssemblyInfo.cs
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\obj\Debug\net5.0\alculate_the_sum_of_numbers.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\bin\Debug\net5.0\alculate_the_sum_of_numbers.exe
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\bin\Debug\net5.0\alculate_the_sum_of_numbers.deps.json
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\bin\Debug\net5.0\alculate_the_sum_of_numbers.runtimeconfig.json
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\bin\Debug\net5.0\alculate_the_sum_of_numbers.runtimeconfig.dev.json
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\bin\Debug\net5.0\alculate_the_sum_of_numbers.dll
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\bin\Debug\net5.0\ref\alculate_the_sum_of_numbers.dll
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\bin\Debug\net5.0\alculate_the_sum_of_numbers.pdb
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\obj\Debug\net5.0\alculate_the_sum_of_numbers.dll
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\obj\Debug\net5.0\ref\alculate_the_sum_of_numbers.dll
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\obj\Debug\net5.0\alculate_the_sum_of_numbers.pdb
+D:\PROGRAMACION III\alculate_the_sum_of_numbers\alculate_the_sum_of_numbers\obj\Debug\net5.0\alculate_the_sum_of_numbers.genruntimeconfig.cache

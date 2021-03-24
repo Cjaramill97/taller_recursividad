@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "alculate_the_sum_of_numbers/1.0.0": {
+        "runtime": {
+          "alculate_the_sum_of_numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "alculate_the_sum_of_numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

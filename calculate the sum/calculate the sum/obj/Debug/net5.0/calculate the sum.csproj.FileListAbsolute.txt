@@ -1,0 +1,16 @@
+D:\PROGRAMACION III\calculate the sum\calculate the sum\bin\Debug\net5.0\calculate the sum.exe
+D:\PROGRAMACION III\calculate the sum\calculate the sum\bin\Debug\net5.0\calculate the sum.deps.json
+D:\PROGRAMACION III\calculate the sum\calculate the sum\bin\Debug\net5.0\calculate the sum.runtimeconfig.json
+D:\PROGRAMACION III\calculate the sum\calculate the sum\bin\Debug\net5.0\calculate the sum.runtimeconfig.dev.json
+D:\PROGRAMACION III\calculate the sum\calculate the sum\bin\Debug\net5.0\calculate the sum.dll
+D:\PROGRAMACION III\calculate the sum\calculate the sum\bin\Debug\net5.0\ref\calculate the sum.dll
+D:\PROGRAMACION III\calculate the sum\calculate the sum\bin\Debug\net5.0\calculate the sum.pdb
+D:\PROGRAMACION III\calculate the sum\calculate the sum\obj\Debug\net5.0\calculate the sum.csprojAssemblyReference.cache
+D:\PROGRAMACION III\calculate the sum\calculate the sum\obj\Debug\net5.0\calculate the sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION III\calculate the sum\calculate the sum\obj\Debug\net5.0\calculate the sum.AssemblyInfoInputs.cache
+D:\PROGRAMACION III\calculate the sum\calculate the sum\obj\Debug\net5.0\calculate the sum.AssemblyInfo.cs
+D:\PROGRAMACION III\calculate the sum\calculate the sum\obj\Debug\net5.0\calculate the sum.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION III\calculate the sum\calculate the sum\obj\Debug\net5.0\calculate the sum.dll
+D:\PROGRAMACION III\calculate the sum\calculate the sum\obj\Debug\net5.0\ref\calculate the sum.dll
+D:\PROGRAMACION III\calculate the sum\calculate the sum\obj\Debug\net5.0\calculate the sum.pdb
+D:\PROGRAMACION III\calculate the sum\calculate the sum\obj\Debug\net5.0\calculate the sum.genruntimeconfig.cache

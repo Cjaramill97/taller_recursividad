@@ -1,0 +1,32 @@
+E:\Usuario\Documents\Spiderman\obj\Debug\net5.0\Spiderman.csprojAssemblyReference.cache
+E:\Usuario\Documents\Spiderman\obj\Debug\net5.0\Spiderman.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuario\Documents\Spiderman\obj\Debug\net5.0\Spiderman.AssemblyInfoInputs.cache
+E:\Usuario\Documents\Spiderman\obj\Debug\net5.0\Spiderman.AssemblyInfo.cs
+E:\Usuario\Documents\Spiderman\obj\Debug\net5.0\Spiderman.csproj.CoreCompileInputs.cache
+E:\Usuario\Documents\Spiderman\bin\Debug\net5.0\Spiderman.exe
+E:\Usuario\Documents\Spiderman\bin\Debug\net5.0\Spiderman.deps.json
+E:\Usuario\Documents\Spiderman\bin\Debug\net5.0\Spiderman.runtimeconfig.json
+E:\Usuario\Documents\Spiderman\bin\Debug\net5.0\Spiderman.runtimeconfig.dev.json
+E:\Usuario\Documents\Spiderman\bin\Debug\net5.0\Spiderman.dll
+E:\Usuario\Documents\Spiderman\bin\Debug\net5.0\ref\Spiderman.dll
+E:\Usuario\Documents\Spiderman\bin\Debug\net5.0\Spiderman.pdb
+E:\Usuario\Documents\Spiderman\obj\Debug\net5.0\Spiderman.dll
+E:\Usuario\Documents\Spiderman\obj\Debug\net5.0\ref\Spiderman.dll
+E:\Usuario\Documents\Spiderman\obj\Debug\net5.0\Spiderman.pdb
+E:\Usuario\Documents\Spiderman\obj\Debug\net5.0\Spiderman.genruntimeconfig.cache
+D:\PROGRAMACION III\Spiderman\obj\Debug\net5.0\Spiderman.dll
+D:\PROGRAMACION III\Spiderman\obj\Debug\net5.0\ref\Spiderman.dll
+D:\PROGRAMACION III\Spiderman\obj\Debug\net5.0\Spiderman.pdb
+D:\PROGRAMACION III\Spiderman\bin\Debug\net5.0\Spiderman.exe
+D:\PROGRAMACION III\Spiderman\bin\Debug\net5.0\Spiderman.deps.json
+D:\PROGRAMACION III\Spiderman\bin\Debug\net5.0\Spiderman.runtimeconfig.json
+D:\PROGRAMACION III\Spiderman\bin\Debug\net5.0\Spiderman.runtimeconfig.dev.json
+D:\PROGRAMACION III\Spiderman\bin\Debug\net5.0\Spiderman.dll
+D:\PROGRAMACION III\Spiderman\bin\Debug\net5.0\ref\Spiderman.dll
+D:\PROGRAMACION III\Spiderman\bin\Debug\net5.0\Spiderman.pdb
+D:\PROGRAMACION III\Spiderman\obj\Debug\net5.0\Spiderman.csprojAssemblyReference.cache
+D:\PROGRAMACION III\Spiderman\obj\Debug\net5.0\Spiderman.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION III\Spiderman\obj\Debug\net5.0\Spiderman.AssemblyInfoInputs.cache
+D:\PROGRAMACION III\Spiderman\obj\Debug\net5.0\Spiderman.AssemblyInfo.cs
+D:\PROGRAMACION III\Spiderman\obj\Debug\net5.0\Spiderman.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION III\Spiderman\obj\Debug\net5.0\Spiderman.genruntimeconfig.cache
